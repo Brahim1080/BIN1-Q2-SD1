@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Examen 2020Bleu juin/Examen 2020Bleu juin.iml" filepath="$PROJECT_DIR$/Examen 2020Bleu juin/Examen 2020Bleu juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2020Jaune juin/Examen 2020Jaune juin.iml" filepath="$PROJECT_DIR$/Examen 2020Jaune juin/Examen 2020Jaune juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2020Rouge juin/Examen 2020Rouge juin.iml" filepath="$PROJECT_DIR$/Examen 2020Rouge juin/Examen 2020Rouge juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2020Septembre/Examen 2020Septembre.iml" filepath="$PROJECT_DIR$/Examen 2020Septembre/Examen 2020Septembre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2021Bleu juin/Examen 2021Bleu juin.iml" filepath="$PROJECT_DIR$/Examen 2021Bleu juin/Examen 2021Bleu juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2021Jaune juin/Examen 2021Jaune juin.iml" filepath="$PROJECT_DIR$/Examen 2021Jaune juin/Examen 2021Jaune juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2021Rouge juin/Examen 2021Rouge juin.iml" filepath="$PROJECT_DIR$/Examen 2021Rouge juin/Examen 2021Rouge juin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen 2021septembre/Examen 2021septembre.iml" filepath="$PROJECT_DIR$/Examen 2021septembre/Examen 2021septembre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1 Pile &amp; Vecteur Table/S1 Pile &amp; Vecteur Table.iml" filepath="$PROJECT_DIR$/S1 Pile &amp; Vecteur Table/S1 Pile &amp; Vecteur Table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S10 Arbre Binaire et ABR/S10 Arbre Binaire et ABR.iml" filepath="$PROJECT_DIR$/S10 Arbre Binaire et ABR/S10 Arbre Binaire et ABR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S11 Dico/S11 Dico.iml" filepath="$PROJECT_DIR$/S11 Dico/S11 Dico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S11 parcours d'arbres/S11 parcours d'arbres.iml" filepath="$PROJECT_DIR$/S11 parcours d'arbres/S11 parcours d'arbres.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S12 File de priorité/S12 File de priorité.iml" filepath="$PROJECT_DIR$/S12 File de priorité/S12 File de priorité.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2 File via table/S2 File via table.iml" filepath="$PROJECT_DIR$/S2 File via table/S2 File via table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S2 Ordre de complexité/S2 Ordre de complexité.iml" filepath="$PROJECT_DIR$/S2 Ordre de complexité/S2 Ordre de complexité.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3 Pile et file via pointeurs/S3 Pile et file via pointeurs.iml" filepath="$PROJECT_DIR$/S3 Pile et file via pointeurs/S3 Pile et file via pointeurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4 Liste (simple)/S4 Liste (simple).iml" filepath="$PROJECT_DIR$/S4 Liste (simple)/S4 Liste (simple).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5 Liste récursive/S5 Liste récursive.iml" filepath="$PROJECT_DIR$/S5 Liste récursive/S5 Liste récursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 Ensemble/S6 Ensemble.iml" filepath="$PROJECT_DIR$/S6 Ensemble/S6 Ensemble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S6 Ensembles (Hashing)/S6 Ensembles (Hashing).iml" filepath="$PROJECT_DIR$/S6 Ensembles (Hashing)/S6 Ensembles (Hashing).iml" />
+      <module fileurl="file://$PROJECT_DIR$/S7 Maps/S7 Maps.iml" filepath="$PROJECT_DIR$/S7 Maps/S7 Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8 Liste Sans Doublons/S8 Liste Sans Doublons.iml" filepath="$PROJECT_DIR$/S8 Liste Sans Doublons/S8 Liste Sans Doublons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S9 Ex Récap/S9 Ex Récap.iml" filepath="$PROJECT_DIR$/S9 Ex Récap/S9 Ex Récap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SD1.iml" filepath="$PROJECT_DIR$/SD1.iml" />
+    </modules>
+  </component>
+</project>
